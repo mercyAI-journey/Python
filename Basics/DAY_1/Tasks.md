@@ -25,3 +25,12 @@ Twinkle, twinkle, little star,
 
 ### Task 2
 Write a Python program to find out what version of Python you are using.
+
+### Task 3
+Write a Python program to display the current date and time.
+
+**Sample Output :**
+```
+Current date and time :
+2014-07-05 14:34:14
+```
