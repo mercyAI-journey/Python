@@ -22,3 +22,6 @@ Twinkle, twinkle, little star,
 Twinkle, twinkle, little star,
 	How I wonder what you are
 ```
+
+### Task 2
+Write a Python program to find out what version of Python you are using.
